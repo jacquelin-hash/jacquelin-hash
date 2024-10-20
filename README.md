@@ -9,15 +9,13 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Python, C, C++, SQL, CSS, HTML, JavaScript],
+  tools: [ReactJs, Git, UNIX/Linux, MySQL, Visual Studio, Webpack, FastAPI, Figma, Scikit-Learn, NumPy, Matplotlib, Jupyter Notebooks],
+  architecture: ["modular frontend", "API integration", "scalable systems"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "Rewriting The Code",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Being able to complete more projects and look for more opportunities"
 }
 ```
 
