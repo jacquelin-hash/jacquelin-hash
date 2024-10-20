@@ -7,10 +7,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const jackie = {
+const Jackie = {
   pronouns: "she" | "her",
   code: [Python, C, C++, SQL, CSS, HTML, JavaScript],
-  tools: [ReactJs, Git, UNIX/Linux, MySQL, Visual Studio, Webpack, FastAPI, Figma, Scikit-Learn, NumPy, Matplotlib, Jupyter Notebooks],
+  tools: [ReactJs, Git, UNIX/Linux, MySQL, Visual Studio, Webpack, FastAPI, Figma, Scikit-Learn,
+  NumPy, Matplotlib, Jupyter Notebooks],
   architecture: ["modular frontend", "API integration", "scalable systems"],
   techCommunities: {
                         coorganizer: "Rewriting The Code",
