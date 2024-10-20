@@ -14,7 +14,7 @@ const Jackie = {
 Scikit-Learn, NumPy, Matplotlib, Jupyter Notebooks],
   architecture: ["modular frontend", "API integration", "scalable systems"],
   tech communities: {
-                        coorganizer: "Rewriting The Code",
+                        Organizations: "Rewriting The Code, and ColorStack
                       },
  challenge: "Being able to complete more projects and look for more opportunities"
 }
