@@ -16,10 +16,10 @@ Scikit-Learn, NumPy, Matplotlib, Jupyter Notebooks],
   tech communities: {
                         Organizations: "Rewriting The Code, and ColorStack
                       },
- challenge: "Being able to complete more projects and look for more opportunities"
+ challenge: "Push myself to find out what I'm capable of."
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :D</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :D</em>
 
 ---
